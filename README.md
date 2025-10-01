@@ -21,7 +21,7 @@
 
 1. Clone the repository:
    ```
-   git clone https://github.com/<your-username>/CLI-Flashcards.git
+   git clone https://github.com/ThackLab/CLI-Flashcards.git
    cd CLI-Flashcards
 2. Run the script with Python 3:
    ```
@@ -56,8 +56,7 @@ grep
 ---
 # Requirements
 
-- Python 3.0 or higher
-- Runs on any system with Python 3+ installed (Linux, macOS, Windows, BSD, etc.)
+- Python 3.x
 ---
 
 
